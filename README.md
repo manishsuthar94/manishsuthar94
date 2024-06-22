@@ -19,7 +19,7 @@
 	<a href="https://www.instagram.com/_mnis_94/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### Programming Languages....
+### Skills....
 
 <p align="center">
         <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
@@ -29,6 +29,17 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	
 </p>
+
+### Tools...
+
+<p align="center">
+        <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
+	 <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000"/>
+
+	
+</p>
+
 
 #### Profile views counter
 ![Visitor Count](https://profile-counter.glitch.me/{manishsuthar94}/count.svg)
