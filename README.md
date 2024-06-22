@@ -1,4 +1,15 @@
-## Hi there, I'm ManishSuthar
+<h1 align="center">Hi 👋, I'm Manish</h1>
+<h3 align="center">A passionate software engineer from India</h3>
+
+<img align="right" alt="codingmanish" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codingmanish9&label=Profile%20views&color=0e75b6&style=flat" alt="codingmanish9" /> </p>
+
+- 👯 I’m looking to collaborate on: Expanding Access to Knowledge Globally. Explore my ongoing projects and initiatives at [codingmanish](https://www.codingmanish.in)
+
+- 📝 I regularly write articles on [https://www.codingmanish.in](https://www.codingmanish.in)
+
+
 
 <p align="center">
 <img width="20%" src="https://img.icons8.com/ios-filled/96/000000/programming.png"/>
