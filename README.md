@@ -22,7 +22,7 @@
 ### Programming Languages....
 
 <p align="center">
-        <img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/html.png"/>
+        <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
