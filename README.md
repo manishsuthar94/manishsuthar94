@@ -18,20 +18,20 @@ Hello, I'm Manish Suthar, a highly dedicated and skilled full-stack web develope
 ### My technical expertise
 
 <p align="center">
-        <img width="8%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
-	 <img width="8%" style="padding:5px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
-	<img width="8%" style="padding:5px" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/>
-	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
-	<img width="8%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+        <img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
+	 <img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/>
+	<img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=PndQWK6M1Hjo&format=png&color=000000"/>
+	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	
 </p>
 
 ### Tools...
 
 <p align="center">
-        <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
-	 <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000"/>
+        <img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
+	 <img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
+	<img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000"/>
 
 	
 </p>
