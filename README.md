@@ -37,6 +37,3 @@
 	
 </p>
 
-
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{manishsuthar94}/count.svg)
