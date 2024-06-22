@@ -15,7 +15,7 @@ Hello, I'm Manish Suthar, a highly dedicated and skilled full-stack web develope
 	<a href="https://www.instagram.com/_mnis_94/" target="_blank"><img alt="Instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### Skills
+### My technical expertise
 
 <p align="center">
         <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
