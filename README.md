@@ -3,19 +3,18 @@
 
 <img align="right" alt="Manish Suthar" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-### About Me
-
+## About Me
 Hello, I'm Manish Suthar, a highly dedicated and skilled full-stack web developer from India 🇮🇳.
 
-### Feel Free to Contact Me
+## Feel Free to Contact Me
 
 <p align="center">
-	<a href="https://github.com/manishsuthar94" target="_blank"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/manish-suthar-8395b4311/" target="_blank"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://www.instagram.com/_mnis_94/" target="_blank" ><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://github.com/manishsuthar94" target="_blank"><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/manish-suthar-8395b4311/" target="_blank"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.instagram.com/_mnis_94/" target="_blank"><img alt="Instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 </p>
 
-### Skills....
+## Skills
 
 <p align="center">
         <img width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/>
