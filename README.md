@@ -5,10 +5,8 @@
 </p>
 
 
-- I'm a **Learner** | **Programmer** 
-- About me :- **Data Scientist | Ex-NielsenIQ | 2x Kaggle Master** | **ML & DS Enthusiast**
-- Currently **Working as a Data Analyst at TresVista Analytics**
-- Willing to contribute more and more in **Data Science and Machine Learning Related projects**
+- I'm a student and a developer from Gujarat, India.
+- About me :- Hello, I'm Manish Suthar, a highly dedicated and skilled full-stack web developer from India 🇮🇳.
 
 
 ### Feel Free to Contact me.....
