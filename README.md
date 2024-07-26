@@ -13,7 +13,7 @@ Hello, I'm Manish Suthar, a highly dedicated and skilled full-stack web develope
 	<a href="https://github.com/manishsuthar94" target="_blank"><img alt="GitHub" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/manish-suthar-8395b4311/" target="_blank"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/_mnis_94/" target="_blank"><img alt="Instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="https://www.linkedin.com/in/manish-suthar-8395b4311/" target="_blank"><img alt="LinkedIn" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a href="https://www.linkedin.com/in/manish-suthar-8395b4311/" target="_blank"><img alt="Twitter" width="10%" style="padding:5px" src="https://img.icons8.com/?size=100&id=64156&format=png&color=000000"/></a>
 </p>
 
 ### My technical expertise
