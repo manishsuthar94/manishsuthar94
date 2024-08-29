@@ -5,7 +5,7 @@
 
 ### About Me
 
-Hello, I'm Manish Suthar, a highly dedicated and skilled full-stack web developer from India 🇮🇳.
+BCA student at Marwadi University, aspiring to become a Full Stack Developer. Focused on mastering both frontend and backend technologies, with a passion for building web applications. Continuously learning and growing in the field of software development.
 
 ### Feel Free to Contact Me
 
