@@ -25,6 +25,9 @@ BCA student at Marwadi University, aspiring to become a Full Stack Developer. Fo
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000"/>
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
+	
+<img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=shQTXiDQiQVR&format=png&color=000000"/>
+ 
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"/>
 	 <img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000"/>
 	<img width="7%" style="padding:5px" src="https://img.icons8.com/?size=100&id=iFPHC1KfnoxC&format=png&color=000000"/>
